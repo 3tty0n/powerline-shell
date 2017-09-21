@@ -1,2 +1,2 @@
 install:
-	./install.py
+	./setup.py
